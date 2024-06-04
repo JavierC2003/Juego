@@ -8,3 +8,6 @@
 8. git add .
 9. git commit -m "Actualizacion de gitComandos.bm"
 10. git push
+11. despues de trabajar con la rama
+12. git merge rama-modJuego
+13. git commit -am "fin"
