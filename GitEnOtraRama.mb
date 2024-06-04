@@ -2,4 +2,5 @@
 2. git branch
 3. git add .
 4. git commit -m "se creo otra rama"
-5. git push
+5. git checkout main
+6. git push
