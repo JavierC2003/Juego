@@ -1,0 +1,5 @@
+1. git checkout -b rama-modJuego
+2. git branch
+3. git add .
+4. git commit -m "se creo otra rama"
+5. git push
