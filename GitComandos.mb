@@ -1,0 +1,10 @@
+1. git init
+2. git add .
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/JavierC2003/Juego.git
+6. git push -u origin main
+7. se modifico gitComandos.bm
+8. git add .
+9. git commit -m "Actualizacion de gitComandos.bm"
+10. git push
